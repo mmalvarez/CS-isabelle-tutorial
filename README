@@ -1,0 +1,6 @@
+Here are completed files corresponding to a livecoding workshop on Isabelle I did on
+March 24, 2021 at ConsenSys.
+
+"MyNat.thy" - introducing Isabelle concepts by playing around with natural numbers
+
+"MyCalc.thy" - a small example of applying Isabelle to verifying some program transformations
